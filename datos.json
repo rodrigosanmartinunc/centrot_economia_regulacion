@@ -1,0 +1,17 @@
+{
+  "estadisticas": {
+    "inflacion_mensual": "4.2%",
+    "actividad_economica": "-1.5%",
+    "recaudacion": "10.2 B"
+  },
+  "publicaciones": [
+    {
+      "id": 1,
+      "titulo": "Impacto de la Regulación Tarifaria 2026",
+      "fecha": "8 Noviembre 2026",
+      "texto": "Este informe analiza la evolución de las tarifas y su impacto en el poder adquisitivo. Observamos una tendencia similar a los reportes previos de IARAF...",
+      "grafico_etiquetas": ["Enero", "Febrero", "Marzo", "Abril", "Mayo"],
+      "grafico_valores": [100, 115, 122, 130, 128]
+    }
+  ]
+}
